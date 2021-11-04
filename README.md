@@ -17,7 +17,7 @@ RasCAL runs within a Matlab 2015b environment.
 Similarly, all custom code here was written and executed within Matlab 2015b.  
   
 We have included all necessary files and custom code, which in conjunction with RasCAL 2014 beta and Matlab 2015b will be able to reproduce all analysis presented
-in article cited above
+in article cited above. Code which processes the Bayesian output file from RasCAL will frequently utilise functions included in RasCAL, so it is reccommended that RasCAL is preloaded in memory in advance.
   
 ### Raw Data  
 
