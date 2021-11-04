@@ -28,7 +28,8 @@ Lipid-Nanodisc interaction DOI: <http://dx.doi.org/10.5291/ILL-DATA.9-12-457>
 
 ### Datasets  
 
-Here, we have deposited five directories, each containing all data and analysis required to replicate the analysis performed in the cited article:
+Here, we have deposited five directories, each containing all data and analysis required to replicate the analysis performed in the cited article.  
+All data files are saved as `.txt` files, with comma separated values as Q, Reflectivity, Error.
 
 Directory | Description
 --------- | -----------
