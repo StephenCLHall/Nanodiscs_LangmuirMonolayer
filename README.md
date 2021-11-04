@@ -6,8 +6,7 @@ Citation details here <https://doi.org.ADD_ONCE_PUBLISHED>
 
 *[Stephen C. L. Hall](https://orcid.org/0000-0003-0753-5123)\*, Cecilia Tognoloni, [Richard A. Campbell](https://orcid.org/0000-0002-6296-314X), Joanna Richens, [Paul O’Shea](https://orcid.org/0000-0001-9313-8313), [Ann Terry](https://orcid.org/0000-0003-1105-0372), [Gareth Price](https://orcid.org/0000-0003-4983-5722), [Tim R. Dafforn](https://orcid.org/0000-0003-2257-6679), [Karen J. Edler](https://orcid.org/0000-0001-5822-0127) and [Thomas Arnold](https://orcid.org/0000-0001-7196-7831)*
 
-\*<stephen.hall@stfc.ac.uk>
-
+\*<stephen.hall@stfc.ac.uk>  
 
 ### Software Requirements
 Data was analysed using RasCAL 2014 beta, freely available at <https://sourceforge.net/projects/rscl/>  
@@ -16,7 +15,7 @@ No modifications were made to the underlying RasCAL code.
 RasCAL runs within a Matlab 2015b environment.  
 Similarly, all custom code here was written and executed within Matlab 2015b.  
   
-We have included all necessary files and custom code, which in conjunction with RasCAL 2014 beta and Matlab 2015b will be able to reproduce all analysis presented
+In this repository, we have included all necessary files and custom code, which in conjunction with RasCAL 2014 beta and Matlab 2015b will be able to reproduce all analysis presented
 in article cited above. Code which processes the Bayesian output file from RasCAL will frequently utilise functions included in RasCAL, so it is reccommended that RasCAL is preloaded in memory in advance.
   
 ### Raw Data  
