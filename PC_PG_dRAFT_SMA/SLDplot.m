@@ -125,6 +125,13 @@ function addPlot(thisSLD, minCurve, maxCurve, col, offset)
     xData = thisSLD(:,1) - offset;
     yData = thisSLD(:,2) * 1e6;
     
+    if length(xData) < length(minCurve);
+        minCurve = minCurve(1:length(xData));
+        maxCurve = maxCurve(1:length(xData));
+    else
+        xData = xData(1:length(minCurve));
+    end
+    
     yp = [minCurve',fliplr(maxCurve')];
     xp = [xData',fliplr(xData')];
     
