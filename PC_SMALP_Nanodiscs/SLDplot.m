@@ -133,6 +133,7 @@ function addPlot(thisSLD, minCurve, maxCurve, col, offset, Linestyle)
         maxCurve = maxCurve(1:length(xData));
     else
         xData = xData(1:length(minCurve));
+        yData = yData(1:length(minCurve));
     end
     
     yp = [minCurve',fliplr(maxCurve')];
