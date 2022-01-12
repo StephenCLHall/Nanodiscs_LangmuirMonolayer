@@ -2,7 +2,7 @@
 ## Supporting Information: Neutron Reflectometry data and analysis
 ## "The Interaction of Styrene Maleic Acid Copolymers with Phospholipids in Langmuir Monolayers, Vesicles and Nanodiscs; a Structural Study"
 
-[![Publication DOI](https://img.shields.io/badge/Publication%20DOI-Add%20once%20published-green)](doi.org) [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![Publication DOI](https://img.shields.io/badge/Publication%20DOI-Add%20once%20published-green)](doi.org) [![DOI](https://zenodo.org/badge/422665970.svg)](https://zenodo.org/badge/latestdoi/422665970) [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 
 
